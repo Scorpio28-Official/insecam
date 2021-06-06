@@ -1,3 +1,6 @@
+[ ] A
+[x] B
+[ ] C
 
 # insecam
 Insecam es una herramienta programada en el lenguaje *bash*, su función es capturar la **cámara frontal o delantera** de tu victima, aplicando ingeneria social.# Modo de instalacion
